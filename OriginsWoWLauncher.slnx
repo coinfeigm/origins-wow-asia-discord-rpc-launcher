@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OriginsWoWLauncher/OriginsWoWLauncher.vcxproj" Id="31b66f17-da4a-4248-b631-11064e4d5236" />
+</Solution>
